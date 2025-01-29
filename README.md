@@ -27,7 +27,7 @@
 ### 1️⃣ **Clone โปรเจ็กต์**
 
 ```sh
-git clone https://github.com/your-username/xzer-shop.git
+git clone https://github.com/Thevi99/xzer-shop.git
 cd xzer-shop
 ```
 
