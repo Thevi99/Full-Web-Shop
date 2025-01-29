@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "name": "Anime Dimensions",
+      "description": "Anime Dimensions",
+      "value": "AnimeDimensions"
+    },
+    {
+      "name": "Anime Dungeon Fighters",
+      "description": "Anime Dungeon",
+      "value": "ADF"
+    },
+    {
+      "name": "King Legacy",
+      "description": "King Legacy",
+      "value": "KingLegacy"
+    },
+    {
+      "name": "Shindo Life",
+      "description": "Shindo Life",
+      "value": "ShindoLife"
+    }
+  ]
+}
