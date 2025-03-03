@@ -48,9 +48,9 @@ yarn install
 💡 **ถ้าไม่มี **``** ระบบจะไม่ทำงาน**
 
 ```env
-MONGO_URI=your-mongodb-connection-string
-ROBLOX_API_KEY=your-roblox-api-key
-TRUEWALLET_API_KEY=your-truewallet-api-key
+MONGO_URI=  mongoDB_URI
+ROBLOX_API_KEY= Roblox_API
+TRUEWALLET_API_KEY= TW_API
 ```
 
 ### 4️⃣ **รันโปรเจ็กต์**
